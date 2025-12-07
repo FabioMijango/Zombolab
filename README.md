@@ -68,3 +68,18 @@ Before running the code, you need to configure the UDP connection.
     ```
     > You can also copy the IP address directly from the **TCP - UDP Tunnels** section on the website.
 > ⚠️ **Note:** The server takes about **5-10 minutes** to download and start. Wait for the `SERVER STARTED` message in the logs before trying to join.
+
+---
+
+## 📚 Resources & Useful Links
+
+Here are some useful links to help you configure your server settings, manage mods, and understand the tools used in this project.
+
+### 🧟 Project Zomboid Server Management
+* **[PZ Wiki - Dedicated Server](https://pzwiki.net/wiki/Dedicated_Server):** The official guide.
+* **[Server Settings (servertest.ini)](https://pzwiki.net/wiki/Server_Settings):** **Highly Recommended.** Explains what every single line in the configuration file does (Zombie population, loot rarity, PVP, etc.).
+* **[Settings and mods](https://pzwiki.net/wiki/Dedicated_server#Linux_4):** Learn how to add Workshop IDs and Mod IDs to your configuration to play with mods.
+
+* **[Project Zomboid Server Setup Tutorial | Linux Guide](https://youtu.be/jvduDZ-vE4c):** Video tutorial how to create your own server. 
+* **[SteamCMD Wiki](https://developer.valvesoftware.com/wiki/SteamCMD):** Valve's official wiki for SteamCMD
+---
