@@ -18,7 +18,7 @@
 
 ## 🧟 What is Zombolab?
 
-**Zombolab** allows you to host a **Project Zomboid Dedicated Server** for free. It uses **LocalToNet** as a tunnel to expose an IP address and connect to the server, while saving your world data persistently in **Google Drive**.
+**Zombolab** allows you to host a **Project Zomboid Dedicated Server** for free in Google Colab. It uses **LocalToNet** as a tunnel to expose an IP address and connect to the server, while saving your world data persistently in **Google Drive**.
 
 Inspired by [Minecolab project](https://github.com/thecoder-001/MineColab) and [MineColab_Improved](https://github.com/N-aksif-N/MineColab_Improved).
 
