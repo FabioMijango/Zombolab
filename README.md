@@ -42,8 +42,10 @@ Before running the code, you need to configure the UDP connection.
 
 ## 🚀 2. How to Run
 
-1.  **Set up:** Run the `Set up` cell. It will install everything it needs to run the server. Wait for the installation to finish.
+1.  **Set up:** Select your desired game version from the dropdown menu (**Stable** for Build 41 or **Unstable** for Build 42 Beta). Then, run the `Set up` cell. It will install all necessary dependencies and the game files.
     > *If an error occurs during installation, try running the cell again.*
+
+    > ⚠️ **Warning:** Switching versions (e.g., from Stable to Unstable) while having an existing save file **may cause the server to fail**. If you change versions, you must backup your saves and empty the `ZomboidSaves` folder in your Google Drive to avoid database conflicts.
 
 2.  **Put Token:** Once the setup is finished, scroll down to the configuration block and paste your Token in the `TOKEN = "YOUR_TOKEN"` variable.
     > You can find your **AUTH TOKEN** in the `Dashboard` section at [localtonet.com](https://localtonet.com/).
